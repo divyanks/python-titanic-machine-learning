@@ -1,0 +1,11 @@
+A pre-requisite for this is:
+Do a yum install of tkinter
+Do a pip install of these packages
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+seaborn
+ggplot
+
